@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>webkod</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css">
+</head>
+<body>
+
+<div class="more">
+    <label>
+        <input type="checkbox" name="">
+        <div class="button1">DAHA FAZLA</div>
+        <div class="top">
+
+            <div class="top-boxes">
+                <div class="top-box-1">
+                    <p class="top-title">BİZE ULAŞIN</p>
+                    <p class="top-text">Telefon Numarası</p>
+                     <p class="top-text">Adres</p>
+                </div>
+               
+            </div>
+
+            <div class="button2">
+                <i class="fas fa-times"></i>
+            </div>
+        </div>
+    </label>
+</div>
+
+<div class="all">
+    <div class="page-left">
+        <div class="logo"></div>
+        <div class="page-name">ANKA</div>
+        <div class="page-info">YOUR BRAND</div>
+        <div class="line"></div>
+        <div class="menu">
+            <ul>
+                <li><a href="">MERAK EDİLEN</a>
+                    <ul>
+                        <li><a href="">GİRİŞ BİLGİSİ</a></li>
+                        <li><a href="">KOŞULLAR</a></li>
+                        <li><a href="">GİZLİLİK</a></li>
+                    </ul>
+                </li>
+                <li><a href="">KURULUŞ AMACI</a></li>
+           <li><a href="">KURUCUSU HAKKINDA</a> </li> 
+          </ul>      
+      
+        </div>
+        <div class="search">
+            <i class="fas fa-search"></i>
+            <input type="text" name="">
+        </div>
+    </div>
+    <div class="page-right">
+        <div class="page-right-box-1">
+            <div class="avatar"></div>
+            <div class="name">HAYRUNNİSA BİLİCİ</div>
+            <div class="date">1 May 2022</div>
+            <div class="image-name">ANKA</div>
+  
+          
+         
+       
+          
+          
+     <footer>         
+   <div class="social">
+   
+ <i class="fab fa-instagram"></i>
+      <i class="fab fa-github-alt"></i>
+       <a href="https://github.com/login"></a>
+     <a href="https://www.instagram.com/?hl=tr"></a>
+      </footer>     
+        
+     </body>      
+          </html>
